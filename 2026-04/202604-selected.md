@@ -38,4 +38,18 @@
 
 ---
 
+---
+
+## 2026-04-07
+
+### [4] Temporal evolution and polarization dependence of relativistic transparency in the ultra-short pulse regime
+
+- **期刊**: New Journal of Physics
+- **评分**: 50/100 📋 第二档
+- **作者**: A Zingale, P Pozderac, N Czapla...
+- **DOI**: [10.1088/1367-2630/ae54c1](https://doi.org/10.1088/1367-2630/ae54c1)
+- **关键词**: 相对论透明性, 超短脉冲, 时间演化, 偏振依赖性
+
+---
+
 *精选标准: 第一档(≥80分)必入选，第二档(40-79分)选相关度高的*
